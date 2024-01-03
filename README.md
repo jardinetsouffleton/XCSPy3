@@ -1,2 +1,2 @@
 # XCSPy3
-Python parser for XCSP3 problems
+XCSPy3 is a Python 3 library for parsing XCSP3 instances.

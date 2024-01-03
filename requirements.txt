@@ -1,0 +1,16 @@
+Cython==0.29.28
+grinpy
+matplotlib==3.5.1
+networkx==3.0
+numpy==1.22.0
+pycosat==0.6.3
+pytest==7.4.0
+scikit-learn==1.2.2
+setuptools==65.5.1
+torch==1.13.1+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
+torch-sparse==0.6.17 -f https://data.pyg.org/whl/torch-1.13.1+cu117.html
+torch-scatter==2.1.1 -f https://data.pyg.org/whl/torch-1.13.1+cu117.html
+torch_geometric==2.3.1
+torchsummary==1.5.1
+tqdm==4.64.0
+wandb==0.13.5

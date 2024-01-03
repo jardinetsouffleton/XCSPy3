@@ -1,6 +1,6 @@
 from typing import List
 import torch
-from torch_geometric.data import InMemoryDataset, Dataset, Batch
+from torch_geometric.data import  Dataset, Batch
 import torch_geometric
 from torch_geometric.data.makedirs import makedirs
 from tqdm import tqdm
